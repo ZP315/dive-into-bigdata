@@ -10,20 +10,18 @@
 
 ## Spring DI运行时序图
 
-![Spring DI](Spring\Spring DI运行时序图.jpg)
+<img src="Spring\Spring DI运行时序图.jpg" alt="Spring DI"  />
 
 
 
 ## Spring AOP运行时序图
 
-![Spring AOP](Spring\Spring AOP运行时序图.jpg)
-
+<img src="Spring\Spring AOP运行时序图.jpg" alt="Spring AOP"  />
 
 
 ## Spring MVC运行时序图
 
-![Spring MVC](Spring\Spring MVC运行时序图.jpg)
-
+<img src="Spring\Spring MVC运行时序图.jpg" alt="Spring MVC"  />
 
 ## 什么是Spring IOC 容器？
 
